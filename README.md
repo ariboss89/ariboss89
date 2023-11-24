@@ -44,10 +44,7 @@
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgree"/> 
-  </a>
+  </a> 
   <a>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgree"/> 
   </a>
