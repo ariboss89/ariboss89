@@ -9,7 +9,6 @@
     <li>My name is Ari Ramadhan</li>
     <li>I am Fullstack Developer using C# </li>
     <li>Interested in .NET Technology</li>
-    <li>I have 3 years experienced as a professional</li>
   </ul>
 </div>
 
