@@ -57,9 +57,6 @@
   <a>
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/> 
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/> 
-  </a>
 
 </div>
 
