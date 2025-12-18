@@ -1,4 +1,4 @@
-<h1 align="left">:man_technologist: About Me :</h1>
+<h1 align="left">About Me :</h1>
 <div align="left">
   <ul>
     <li>My name is Ari Ramadhan</li>
